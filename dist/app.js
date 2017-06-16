@@ -12363,7 +12363,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       "width": "120px"
     }
   }), _vm._v(" "), _c('div', {
-    staticClass: "markdown",
+    staticClass: "markdown-body",
     domProps: {
       "innerHTML": _vm._s(_vm.rawHtml)
     }
